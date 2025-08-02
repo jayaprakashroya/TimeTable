@@ -1,0 +1,108 @@
+<table border="1" style="width: 100%; text-align: center;">
+    <caption><strong>Time Table</strong></caption>
+    <tr>
+        <td><strong>Classes</strong></td>
+        <th>8:45 to 9:30</th>
+        <th>9:30 to 10:25</th>
+        <th>10:25 to 10:35</th>
+        <th>10:35 to 11:25</th>
+        <th>11:25 to 12:15</th>
+        <th>12:15 to 1:00</th>
+        <th>1:00 to 1:50</th>
+        <th>1:50 to 2:35</th>
+        <th>2:35 to 2:45</th>
+        <th>2:45 to 3:30</th>
+        <th>3:30 to 4:30</th>
+        <th>4:30 to 5:30</th>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>Cryptography</td>
+        <td>Human Nutrition</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Cloud Computing</td>
+        <td>Data Structures</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Operating Systems</td>
+        <td>Software Engineering</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Database Management Systems</td>
+        <td>Web Technologies</td>
+        <td>Computer Networks</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>Operating Systems</td>
+        <td>Web Technologies</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Cryptography</td>
+        <td>Database Management Systems</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Data Structures</td>
+        <td>Cloud Computing</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Human Nutrition</td>
+        <td>Software Engineering</td>
+        <td>Computer Networks</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>Software Engineering</td>
+        <td>Data Structures</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Web Technologies</td>
+        <td>Human Nutrition</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Computer Networks</td>
+        <td>Cryptography</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Cloud Computing</td>
+        <td>Operating Systems</td>
+        <td>Database Management Systems</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>Human Nutrition</td>
+        <td>Operating Systems</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Database Management Systems</td>
+        <td>Web Technologies</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Cryptography</td>
+        <td>Software Engineering</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Cloud Computing</td>
+        <td>Computer Networks</td>
+        <td>Data Structures</td>
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td>Web Technologies</td>
+        <td>Cryptography</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Data Structures</td>
+        <td>Computer Networks</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Human Nutrition</td>
+        <td>Database Management Systems</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Software Engineering</td>
+        <td>Cloud Computing</td>
+        <td>Operating Systems</td>
+    </tr>
+    <tr>
+        <td>Saturday</td>
+        <td>Database Management Systems</td>
+        <td>Cloud Computing</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Computer Networks</td>
+        <td>Operating Systems</td>
+        <td style="background-color: #d4edda;">Lunch Break</td>
+        <td>Web Technologies</td>
+        <td>Human Nutrition</td>
+        <td style="background-color: #fffacd;">Break</td>
+        <td>Software Engineering</td>
+        <td>Cryptography</td>
+        <td>Data Structures</td>
+    </tr>
+</table>
